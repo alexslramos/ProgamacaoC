@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+     int main(){
+
+     int nota a;
+     int nota b;
+     int nota c;
+
+     float media;
+
+         printf("Digite a nota a":\n);
+         scanf("%d", &nota a);
+
+         printf("Digite a nota b":\n);
+         scanf("%d", &nota b);
+
+         printf("Digite a nota c":\n);
+         scanf("%d", &nota c);
+
+
+}
